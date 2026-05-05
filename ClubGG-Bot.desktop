@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ClubGG Bot
+Comment=ClubGG automation bot
+Exec=bash -c 'cd /home/alucard/clubgg-bot-fixed && source venv/bin/activate && python3 main.py'
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;

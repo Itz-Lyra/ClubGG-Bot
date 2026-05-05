@@ -1,0 +1,16 @@
+# Core
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+PyQt6>=6.6.0
+treys>=0.1.8
+requests>=2.31.0
+numpy>=1.24.0
+
+# Discord integration
+discord.py>=2.3.0
+
+# Distro detection (Addendum 5)
+distro>=1.8.0
+
+# Build
+pyinstaller>=6.0.0

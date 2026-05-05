@@ -1,0 +1,22 @@
+# Never commit credentials or secrets
+config.json
+stats_*.json
+
+# Build artifacts
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Debug output
+debug/
+*.tmp
+
+# IDE
+.idea/
+.vscode/
+*.swp
